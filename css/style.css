@@ -1,0 +1,42 @@
+*{box-sizing: border-box;}
+.navbar{
+    background: #282828 !important;
+}
+.navbar .container{
+    width: ;
+}
+.navbar-brand{
+    flex-basis: 60px;
+    max-width: 60px;
+}
+.navbar-brand img{
+    width: 100%;
+}
+.btn-search{border: none!important;padding-right: 100px;}
+.header-banner{
+    background: url(../images/simple-codelines.svg),#2b3137;
+    background-size: cover;
+    background-position: center 10%;
+    background-attachment: fixed;
+    padding: 80px 0;
+}
+
+.header-content{
+    padding: 0 90px 0 50px;
+}
+.header-content h1{
+    color: #fff;
+    font-size: 4em;
+    font-weight: 600;
+}
+.header-content p{color: hsla(0,0%,100%,.6);font-size: 20px;line-height: 1.6;letter-spacing: 1px;}
+.form-part{
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+.form-part p{
+    color: #6a737d;
+    font-size: 12px;
+}
+
